@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Rani, a 2025 informatics engineering student based in ITB.
+I'm interested to UI/UX, full stack web developer, and software engineering.
+I'm still exploring, but my main tech is C, python. My favorite tools are figma and procreate on my iPad.
+
 <!--
 **Rani-design-art/Rani-design-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
